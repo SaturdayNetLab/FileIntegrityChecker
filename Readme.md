@@ -54,7 +54,7 @@ Clone the repository:
 
 
 
-git clone \[https://github.com/Your-Username/Your-Repo-Name.git](https://github.com/Your-Username/Your-Repo-Name.git)
+git clone \(https://github.com/Your-Username/Your-Repo-Name.git](https://github.com/SaturdayNetLab/FileIntegrityChecker.git))
 
 cd Your-Repo-Name
 
